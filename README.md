@@ -18,7 +18,7 @@ A Weather Dashboard app built with React.js that allows users to search for any 
     - OpenWeatherMap API
     - Deployment: Vercel
 
--Installation
+- Installation
   <ol>
     <li>Clone the repository</li>
     <li>Run: npm i</li>
