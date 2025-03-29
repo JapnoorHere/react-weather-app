@@ -31,6 +31,6 @@ A Weather Dashboard app built with React.js that allows users to search for any 
   </ol>
 
 
-  - API Details:
+- API Details:
     - Current Weather API: https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric
     - 5-Day Forecast API: https://api.openweathermap.org/data/2.5/forecast?q={city}&appid={API_KEY}&units=metric
