@@ -16,12 +16,7 @@ const ForecastSection = ({ data }) => {
   
     const dailyForecasts = Object.keys(groupedByDay).map(date => {
       const dayData = groupedByDay[date];
-      const noonForecast = dayData.find(item => {
-        const hour = new Date(item.dt * 1000).getHours();
-        return hour >= 11 && hour <= 13;
-      }) || dayData[0]; 
-      
-      return noonForecast;
+      return dayData[0];
     }).slice(0, 5);
   
     return (
