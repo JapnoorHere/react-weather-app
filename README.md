@@ -1,4 +1,4 @@
-# zynetic-weather-app-dashboard
+# react-weather-app
 A Weather Dashboard app built with React.js that allows users to search for any city and view its current weather information along with a 5-day forecast.
 
 
