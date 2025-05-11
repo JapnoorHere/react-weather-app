@@ -2,6 +2,8 @@
 A Weather Dashboard app built with React.js that allows users to search for any city and view its current weather information along with a 5-day forecast.
 
 
+![image](https://github.com/user-attachments/assets/e9b00614-a4d8-418a-a4ab-50aff778e516)
+
 
 - Features:
   - City Search
